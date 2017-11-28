@@ -1,6 +1,13 @@
 body {
-   background-image: url(imagenes/1.png);
+   background-image: url(imagenes/2.jpg);
    font-family: 'Pacifico',  cursive;
    font-size: 25px;
+ }
+.font-effect-fire-animation{
+  font-size: 40px;
 
+}
+img{
+  width: 60px;
+  height: 50px;
 }
