@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Layout2</title>
+<link rel="stylesheet" type="text/css" href="style2.css"/>
+</head>
+<body>
+<div id"header">
+  <p>hola mundo</p>
+</div>
+<div id="sidebar-left">
+hola
+</div>
+<div id="sidebar-right">
+
+  hola
+</div>
+<div id="content">
+  hola
+</div>
+</body>
+</html>
